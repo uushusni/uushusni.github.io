@@ -3,7 +3,7 @@ html {
   scroll-behavior: smooth;
 }
 .ftco-navbar-light {
-  background: transparent !important;
+  background: white !important;
   position: fixed;
   top: 50px;
   left: 0;
