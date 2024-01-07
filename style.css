@@ -3,7 +3,7 @@ html {
   scroll-behavior: smooth;
 }
 .ftco-navbar-light {
-  background: white !important;
+  background: transparent !important;
   position: fixed;
   top: 50px;
   left: 0;
@@ -70,6 +70,7 @@ html {
 .ftco-navbar-light.scrolled .nav-link {
   padding-top: 0.7rem !important;
   padding-bottom: 0.7rem !important;
+  background-color: transparent;
   color: #000000 !important;
 }
 
@@ -86,7 +87,7 @@ html {
   transition: 0.3s all ease-out;
 }
 .ftco-navbar-light.scrolled .navbar-brand {
-  color: #000000;
+  color: #c8a97e;
 }
 
 .navbar-brand {
